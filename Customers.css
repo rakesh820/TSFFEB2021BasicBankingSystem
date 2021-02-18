@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+thead{
+    color:aliceblue;
+    background-color:black;
+    text-align:center;
+    font-size:30px;
+} 
+.t{
+    color:black;
+    text-align:center;
+}
+td{
+    border: 2px solid black;
+    border-bottom:0px;
+}
+     

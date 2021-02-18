@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+thead{
+    color:aliceblue;
+    background-color:black;
+    text-align:center;
+    font-size:30px;
+} 
+.t{
+    color:black;
+    text-align:center;
+}
+td{
+     border: 2px solid black;
+     border-bottom:0px;
+}
+h1{
+     text-align:center;
+     font-size:50px;
+     color:Red;
+      margin-top:20px;
+}
+.l{
+      margin-left:300px;
+      margin-top: 20px;
+      font-size: 20px;
+      font-weight: bold;
+}
+.o{
+      margin-top: 10px;;
+      margin-left:300px;
+      width: 900px;
+}
+      
